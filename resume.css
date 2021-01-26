@@ -1,0 +1,41 @@
+.navbar {
+	border-style: double;
+}
+
+.navbar-brand {
+font-weight: bold; 
+}
+
+.navbar .dropdown-menu {
+background-color: d6f5f5;
+}
+
+.background {
+	background-color: #d6f5f5;
+}
+
+ .bg-custom {
+ 	background-color: #adebeb;
+ }
+
+.background-color {
+ 	background-color: #d6f5f5;
+ }
+
+.padding {
+ 	padding-left: 30px
+ }
+
+ li {
+ 	padding-left: 30px
+ }
+
+ div2 {
+ 	padding-left: 30px
+ }
+
+
+
+
+
+
